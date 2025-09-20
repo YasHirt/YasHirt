@@ -30,14 +30,22 @@ Let’s build something great together!
 
  📫 You can find me at:
  
- <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="blank" width="40" height="40"> </a>          <a href="" target="blank"> <img src="https://github.com/user-attachments/assets/240ff953-6073-42bf-b88c-dc69b0ea40db" width="40" height="40"> </a>
-
+ <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="blank" width="40" height="40"></a>          <a href="" target="blank"> <img src="https://github.com/user-attachments/assets/240ff953-6073-42bf-b88c-dc69b0ea40db" width="40" height="40"> </a>
  </h2>
+
+
 
 <a href="https://github.com/YasHirt">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasHirt&layout=compact&langs_count=7&theme=dracula"/>
+ <div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasHrti/YasHrti/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasHrti/YasHrti/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YasHrti/YasHrti/output/pacman-contribution-graph.svg">
+</picture>
+ </div>
 
- 
+### 
  
 
           
