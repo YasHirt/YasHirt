@@ -9,7 +9,7 @@
 
   <p> >🖥️ I'm a Software Engineering and Mathematics student who is passionate about programming, problem-solving, learning new technologies, and... drinking coffee.  </p>
 
-<img src="https://media.tenor.com/ZCET1qU4jhAAAAAi/cat-coffee.gif" alt="Gato bebendo café" width="200" height="200"/>
+<img src="https://media1.tenor.com/m/WbZo8bqB6N4AAAAd/stardew-valley-coffee.gif" alt="Gato bebendo café" width="200" height="200"/>
 
 
 
