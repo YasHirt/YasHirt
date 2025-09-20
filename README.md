@@ -33,12 +33,20 @@ Let’s build something great together!
  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="blank" width="40" height="40"></a>          <a href="" target="blank"> <img src="https://github.com/user-attachments/assets/240ff953-6073-42bf-b88c-dc69b0ea40db" width="40" height="40"> </a>
  </h2>
 
-
+---
 
 <a href="https://github.com/YasHirt">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasHirt&layout=compact&langs_count=7&theme=dracula"/>
+ 
+ ---
+ 
+<div align="left">
+  <a href="https://open.spotify.com/user/Yas">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=225kynduh6ljbtm3xrcde363y" alt="Spotify recently played"  />
+  </a>
+</div>
 
-
+---
  <div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasHirt/YasHirt/output/pacman-contribution-graph-dark.svg">
