@@ -3,23 +3,23 @@
 
  <img src="https://github.com/user-attachments/assets/34a1a4dd-19a1-4201-ae83-3706e8a5113e" width="300" height="300">
 
-  <p> >🖥️ I'm a Software Engineering and Mathematics student who is passionate about programming, problem-solving, learning new technologies, and... drinking coffee.  </p>
+  <h2> >About me 🖥️ </h2>
+  <p> I’m a Software Engineering student (and former Mathematics student) passionate about programming, problem-solving, and continuous learning.
+  Currently focused on building a solid foundation in backend development, improving code structure, and understanding software architecture.  </p>
 
-<img src="https://media1.tenor.com/m/WbZo8bqB6N4AAAAd/stardew-valley-coffee.gif" alt="Satrdew bebendo café" width="200" height="200"/>
+<img src="https://media1.tenor.com/m/WbZo8bqB6N4AAAAd/stardew-valley-coffee.gif" alt="Stardew bebendo café" width="200" height="200"/>
 
-
-
-
-° I enjoy working on C programming projects, web development, and exploring topics like Scrum methodology.
- I’m currently focused on improving my skills in Git, GitHub, and collaborating on open-source projects.
-
-° When I'm not coding, you can find me cooking, solving Rubik’s cubes, watching Formula 1, or spending time with my dogs, cats and family.
-
-Let’s build something great together!
+<h2> 🚀 Interests </h2>
+<li> Backend development (Java)
+Web development fundamentals
+Software architecture (layered architecture)
+Version control and collaboration (Git & GitHub)</li>
 
 <h2>
 🌱 Currently learning:
+ 
 <br>
+ 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -35,8 +35,6 @@ Let’s build something great together!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
-
-###
       
   <br>
 
