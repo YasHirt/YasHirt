@@ -9,7 +9,7 @@
 
   <p> >🖥️ I'm a Software Engineering and Mathematics student who is passionate about programming, problem-solving, learning new technologies, and... drinking coffee.  </p>
 
-<img src="https://media1.tenor.com/m/WbZo8bqB6N4AAAAd/stardew-valley-coffee.gif" alt="Gato bebendo café" width="200" height="200"/>
+<img src="https://media1.tenor.com/m/WbZo8bqB6N4AAAAd/stardew-valley-coffee.gif" alt="Satrdew bebendo café" width="200" height="200"/>
 
 
 
@@ -26,7 +26,14 @@ Let’s build something great together!
 
 
  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40" height="40">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"> 
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+      
+          
 
  📫 You can find me at:
  
@@ -37,14 +44,6 @@ Let’s build something great together!
 
 <a href="https://github.com/YasHirt">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasHirt&layout=compact&langs_count=7&theme=dracula"/>
- 
- ---
- 
-<div align="left">
-  <a href="https://open.spotify.com/user/Yas">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=225kynduh6ljbtm3xrcde363y" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ---
  <div>
